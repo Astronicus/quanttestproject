@@ -5,7 +5,7 @@ import PageLayout from "../components/Layout/PageLayout";
 const Home: NextPage = () => {
   return (
     <PageLayout title={"geese, by minihacks"}>
-      <Box px={[5, 10]}>
+      <Box px={[10, 30]}>
         <Heading as={"h1"}>Quant Interview Practice</Heading>
       </Box>
     </PageLayout>
